@@ -50,7 +50,7 @@ def save
     name = row[1]
     breed = row[3]
     self.new(id, name, breed)
-  end 
+  end
 
 
 end
